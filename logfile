@@ -1,0 +1,15 @@
+LOG:  database system was shut down at 2012-06-21 10:46:54 BST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+FATAL:  database "sample_app" does not exist
+FATAL:  database "Alex" does not exist
+FATAL:  database "Alex" does not exist
+FATAL:  database "sample_app_dev" does not exist
+FATAL:  database "sample_app_test" does not exist
+LOG:  unexpected EOF on client connection
+LOG:  unexpected EOF on client connection
+LOG:  unexpected EOF on client connection
+LOG:  unexpected EOF on client connection
+LOG:  unexpected EOF on client connection
+LOG:  unexpected EOF on client connection
+LOG:  unexpected EOF on client connection
